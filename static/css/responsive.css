@@ -1,0 +1,22 @@
+/* phone */
+@media(max-width:640px){
+    html {
+        font-size: 10px;
+    }
+
+    .about-section {
+        flex-direction: column;
+    }
+
+    .about-desceiption-container {
+        width: 100%;
+        margin: 4rem 0px;
+    }
+}
+
+/* tablet */
+@media (min-width:641px) and (max-width:1007){
+    html{
+        font-size: 12px;
+    }
+}
